@@ -33,8 +33,8 @@ I have worked on above mentioned projects using following tools and technologies
 ```
 [Project Euler codes](https://github.com/hkbiet/Project-Euler-in-Python)
 
-[Hackerrank profile](https://www.hackerrank.com/hemant_kumar29),
-[My Stack Overflow page](https://stackoverflow.com/users/1793586/hemant-kumar)
+- [Hackerrank profile](https://www.hackerrank.com/hemant_kumar29),
+- [My Stack Overflow page](https://stackoverflow.com/users/1793586/hemant-kumar)
 
 [My Github Repos](https://github.com/hkbiet)
 
@@ -43,5 +43,3 @@ I have worked on above mentioned projects using following tools and technologies
 [Current Pull requests](https://github.com/pulls) 
 
 [Current Issues](https://github.com/issues)
-
-Repo maintaining the code of this page is hosted [here](https://github.com/hkbiet/hkbiet.github.io)
