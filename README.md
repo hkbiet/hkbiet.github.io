@@ -16,7 +16,7 @@ I have done projects in :
 
 I would be posting a few fun projects too !
 
-### This currently an experimental page , i intend to transition it from static to dynamic content.
+### This currently is an experimental page , i intend to transition it from static to dynamic content.
 
 ```markdown
 I have worked on above mentioned projects using following tools and technologies.
