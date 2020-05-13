@@ -11,8 +11,8 @@ I have done projects in :
  - [Web Development](https://github.com/hkbiet/Django), 
  - [Android](https://github.com/hkbiet/Android),
  - [Blockchain](https://github.com/hkbiet/blockchain-1), 
- - [B-Tree based basic file system](https://github.com/hkbiet/Project-FileSystem),
- - [A basic Graphic User Interface for viewing images on a Linux directory](https://github.com/hkbiet/PyQt5)
+ - [Basic file system](https://github.com/hkbiet/Project-FileSystem),
+ - [Linux based GUI](https://github.com/hkbiet/PyQt5)
 
 I would be posting a few fun projects too !
 
@@ -31,8 +31,6 @@ I have worked on above mentioned projects using following tools and technologies
 - Numpy, Pandas, OpenCV
 
 ```
-[Project Euler codes](https://github.com/hkbiet/Project-Euler-in-Python)
-
 - [Hackerrank profile](https://www.hackerrank.com/hemant_kumar29),
 - [My Stack Overflow page](https://stackoverflow.com/users/1793586/hemant-kumar)
 
