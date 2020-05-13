@@ -2,7 +2,7 @@
 
 ![PICTURE](https://media-exp1.licdn.com/dms/image/C5103AQEbeJcwmNIuvg/profile-displayphoto-shrink_200_200/0?e=1594857600&v=beta&t=FmEMiLupZB3xe9E7UJsnEV484dxZPYir5bHomgxL8lw)
 
-Hi there ! I am [Hemant Kumar](https://www.linkedin.com/in/hemant-kumar-0a637616a/) , a final year students at the [Indian Institute of Information Tehcnology Allahabad](https://www.iiita.ac.in/). 
+Hi there ! I am [Hemant Kumar](https://www.linkedin.com/in/hemant-kumar-0a637616a/) , a final year student at the [Indian Institute of Information Tehcnology Allahabad](https://www.iiita.ac.in/). 
 
 This is a static page created by me for hosting my projects.
 
@@ -12,7 +12,7 @@ I have done projects in :
  - [Android](https://github.com/hkbiet/Android),
  - [Blockchain](https://github.com/hkbiet/blockchain-1), 
  - [B-Tree based basic file system](https://github.com/hkbiet/Project-FileSystem),
- - [A bsic Graphic User Interface for viewing images on a Linux directory](https://github.com/hkbiet/PyQt5)
+ - [A basic Graphic User Interface for viewing images on a Linux directory](https://github.com/hkbiet/PyQt5)
 
 I would be posting a few fun projects too !
 
@@ -21,22 +21,27 @@ I would be posting a few fun projects too !
 ```markdown
 I have worked on above mentioned projects using following tools and technologies.
 
-- **Python**
-- **Django**
-- **Node.JS**
-- **C**
-- **Kotlin**
-- **Solidity**
-- **Ethereum**
-- **Numpy, Pandas, OpenCV**
+- Python
+- Django
+- Node.JS
+- C
+- Kotlin
+- Solidity
+- Ethereum
+- Numpy, Pandas, OpenCV
 
+```
 [Project Euler codes](https://github.com/hkbiet/Project-Euler-in-Python)
 
-Visit me on **[Hackerrank]**(https://www.hackerrank.com/hemant_kumar29), **[Stack Overflow]**(https://stackoverflow.com/users/1793586/hemant-kumar)
-```
-#**[My Github Repos]**(https://github.com/hkbiet)
+[Hackerrank profile](https://www.hackerrank.com/hemant_kumar29),
+[My Stack Overflow page](https://stackoverflow.com/users/1793586/hemant-kumar)
 
-**[Current Pull requests]**(https://github.com/pulls)
-**[Current Issues]**(https://github.com/issues)
+[My Github Repos](https://github.com/hkbiet)
+
+**Looking to contribute ? Check below pull requests and issues **
+
+[Current Pull requests](https://github.com/pulls) 
+
+[Current Issues](https://github.com/issues)
 
 Repo maintaining the code of this page is hosted [here](https://github.com/hkbiet/hkbiet.github.io)
