@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+## Welcome to my page !
 
-You can use the [editor on GitHub](https://github.com/hkbiet/hkbiet.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![PICTURE](https://media-exp1.licdn.com/dms/image/C5103AQEbeJcwmNIuvg/profile-displayphoto-shrink_200_200/0?e=1594857600&v=beta&t=FmEMiLupZB3xe9E7UJsnEV484dxZPYir5bHomgxL8lw)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi there ! I am [Hemant Kumar](https://www.linkedin.com/in/hemant-kumar-0a637616a/) , a final year students at the [Indian Institute of Information Tehcnology Allahabad](https://www.iiita.ac.in/). 
 
-### Markdown
+This is a static page created by me for hosting my projects.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I have done projects in :
+ - [Machine Learning](https://github.com/hkbiet/Deep-Learning-Detection-in-Cancer-Images),
+ - [Web Development](https://github.com/hkbiet/Django), 
+ - [Android](https://github.com/hkbiet/Android),
+ - [Blockchain](https://github.com/hkbiet/blockchain-1), 
+ - [B-Tree based basic file system](https://github.com/hkbiet/Project-FileSystem),
+ - [A bsic Graphic User Interface for viewing images on a Linux directory](https://github.com/hkbiet/PyQt5)
+
+I would be posting a few fun projects too !
+
+### This currently an experimental page , i intend to transition it from static to dynamic content.
 
 ```markdown
-Syntax highlighted code block
+I have worked on above mentioned projects using following tools and technologies.
 
-# Header 1
-## Header 2
-### Header 3
+- **Python**
+- **Django**
+- **Node.JS**
+- **C**
+- **Kotlin**
+- **Solidity**
+- **Ethereum**
+- **Numpy, Pandas, OpenCV**
 
-- Bulleted
-- List
+[Project Euler codes](https://github.com/hkbiet/Project-Euler-in-Python)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Visit me on **[Hackerrank]**(https://www.hackerrank.com/hemant_kumar29), **[Stack Overflow]**(https://stackoverflow.com/users/1793586/hemant-kumar)
 ```
+#**[My Github Repos]**(https://github.com/hkbiet)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**[Current Pull requests]**(https://github.com/pulls)
+**[Current Issues]**(https://github.com/issues)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hkbiet/hkbiet.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Repo maintaining the code of this page is hosted [here](https://github.com/hkbiet/hkbiet.github.io)
