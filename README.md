@@ -32,7 +32,7 @@ I have worked on above mentioned projects using following tools and technologies
 
 ```
 - [Hackerrank profile](https://www.hackerrank.com/hemant_kumar29),
-- [My Stack Overflow page](https://stackoverflow.com/users/1793586/hemant-kumar)
+- [My Stack Overflow page](https://stackoverflow.com/users/1793586/hemant-kumar?tab=topactivity)
 
 
 Looking to contribute ? Check below pull requests and issues : 
