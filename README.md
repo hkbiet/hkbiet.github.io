@@ -34,9 +34,8 @@ I have worked on above mentioned projects using following tools and technologies
 - [Hackerrank profile](https://www.hackerrank.com/hemant_kumar29),
 - [My Stack Overflow page](https://stackoverflow.com/users/1793586/hemant-kumar)
 
-[My Github Repos](https://github.com/hkbiet)
 
-## Looking to contribute ? Check below pull requests and issues : 
+Looking to contribute ? Check below pull requests and issues : 
 
 [Current Pull requests](https://github.com/pulls) 
 
