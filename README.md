@@ -2,7 +2,7 @@
 
 ![PICTURE](https://media-exp1.licdn.com/dms/image/C5103AQEbeJcwmNIuvg/profile-displayphoto-shrink_200_200/0?e=1594857600&v=beta&t=FmEMiLupZB3xe9E7UJsnEV484dxZPYir5bHomgxL8lw)
 
-Hi there ! I am [Hemant Kumar](https://www.linkedin.com/in/hemant-kumar-0a637616a/) , an alumunus of the [Indian Institute of Information Tehcnology Allahabad](https://www.iiita.ac.in/), currently working as a Python Programmer at a startup.
+Hi  there ! I am [Hemant Kumar](https://www.linkedin.com/in/hemant-kumar-0a637616a/) , an alumunus of the [Indian Institute of Information Tehcnology Allahabad](https://www.iiita.ac.in/), currently working as a Python Programmer at a startup.
 
 This is a static page created by me for hosting my projects.
 
